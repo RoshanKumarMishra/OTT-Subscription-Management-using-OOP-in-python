@@ -1,2 +1,3 @@
 # OTT-Subscription-Management-using-OOP-in-python
-A Python-based OTT Subscription Management System built using Object-Oriented Programming concepts to manage users, subscription plans, billing, and account operations efficiently.
+Download all the files and unzip them.
+After that run the entry.py file which is main file here. It will give a simple web scrapping model using python.
